@@ -26,6 +26,9 @@ fake-news-classification/
 
 ## 📊 Dataset
 - Dataset used: [Fake News Dataset](https://www.kaggle.com/datasets/hassanamin/textdb3)
-- Format: CSV with columns like `title`, `text`, `label`  
+- Format: CSV with columns like `title`, `text`, `label`
+
+## Live Demo
+Try the web app here:  (https://ab11fa9dbd07.ngrok-free.app)
 
 
