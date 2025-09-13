@@ -29,6 +29,6 @@ fake-news-classification/
 - Format: CSV with columns like `title`, `text`, `label`
 
 ## Live Demo
-Try the web app here:  (https://ab11fa9dbd07.ngrok-free.app)
+Try the web app here:  (https://de8309072afb.ngrok-free.app/)
 
 
